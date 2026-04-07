@@ -1,0 +1,61 @@
+1. What conclusion can you reach about the responses to this question?
+
+All students prepare for class in a relatively similar manner
+
+most students have a second monitor while some use a laptop and some students don't have a second screen at all
+
+Majority of students have a keyboard and mouse
+
+Majority of students use pen and paper to take notes
+
+Most questions had to do with things later on down the line in the course
+	
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+Question 1- is helpful but not concise visually, can be improved by wrapping the text so that you can see all of the data without scrolling
+
+Question 2- should only be yes or no to prevent hard to track data
+
+Question 3- should only be yes or no to prevent hard to track data
+
+Question 4- make multiple choice with only 2 options
+
+Question 5- Maybe make multiple choice selection based on topics vs written response 
+
+
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+
+You are unable to see answers for the questions with the other options, there is also missing answers and descriptive answers mixed in with yes or no responses 
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+
+There are too many variables so it would be hard to pinpoint in hard trends or patterns outside of things like if the response was a question vs a statement
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+Make them selection based while being thorough with the options so that the data can stay consistent and also make it easier to evaluate
+
+6. Is there anything that surprised you about the survey responses?
+
+There was a lot more pen and paper note takers than computer/laptop
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+
+No
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+
+You can make adjustments to accommodate how notes are taking you can also take note of the things people are doing before class and accommodate that as well 
+
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both.)
+
+I don't think in this case it effected the result of much the class counts as an entirety anyway so I believe the data is still collected accordingly
