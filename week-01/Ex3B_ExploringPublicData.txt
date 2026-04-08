@@ -1,0 +1,38 @@
+1. Start by reviewing the data.gov home page. What is this?
+Data.gov is the official open data portal of the U.S. government that provides free access to thousands of datasets from federal agencies on topics like health, climate, and education. It allows the public, researchers, and developers to explore, download, and use government data to create insights, apps, and research.
+
+2. Go to Most Viewed Datasets. How many datasets are listed?
+402,373
+
+3. Find the Topic Category for Human Health. Review the range of data sources
+available for this topic. Why do you think these were tagged with the Human Health
+category?
+Because it has to do with food that gets consumed but humans
+
+4. Go to the Food Price Outlook. Review the catalog page for this dataset. How can you
+navigate to additional datasets from the USDA?
+Scroll down to the additional metadata section and follow one of the provided links from other sources 
+
+5. Go back to the data.gov home page. This time, click on Datasets by Organization. Try searching for your city, county, and state. What organizations are returned?
+State of Maryland- 2448 Datasets/ Montgomery county of Maryland- 461 Datasets
+
+
+7. Search for USDA, and click into the result. Within the USDA datasets, search for food
+composition. Notice that the top three results are all datasets concerning nutrition
+information. Try searching the USDA page for nutrition. How does that affect your
+results?
+It made the results much broader
+
+8. Go back to the results for food composition, and click on Food Data Central. Review
+the catalog page for this data source, then click on the button for Visit Page. Take
+some time to explore the Food Data Central website.
+
+a) Try searching for butter, or any of your favorite foods. What kind of results do you
+get? What happens when you click on a result?
+I searched for cheese and got a bunch of different types of cheese, the results showed statistics per portion categorized by Avg amount, unit, mean, max, median and the year acquired.
+
+b) Go back to the home page. Find Foundation Foods, and click on Downloads. What
+kind of data can you find on this page? How big are these files? Where can you find
+more information on the data types available?
+Latest and historical downloads pertaining to foundation foods, se legacy, fndds, branded and full downloads of all data types. The files range from 2.5 megabytes all the way up to 3.1 gigabytes. Click on the links provided under documentation for more info on the file types.
+
