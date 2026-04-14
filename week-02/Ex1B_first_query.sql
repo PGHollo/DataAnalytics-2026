@@ -1,0 +1,3 @@
+/*
+Sakila is a database used to collect information about films and payments for use by the store
+*/
