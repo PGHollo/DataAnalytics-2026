@@ -1,7 +1,8 @@
-# How do you convert a temperature from Celsius to Fahrenheit?
+# Ask the user for the temperature in Celsius
+celsius = float(input("Enter temperature in Celsius: "))
 
-fahrenheit = float(input("Enter temperature in Fahrenheit: "))
+# Convert Celsius to Fahrenheit
+fahrenheit = (celsius * 9 / 5) + 32
 
-celsius = (fahrenheit - 32) * 5 / 9
-
-print(f"{fahrenheit:.2f}°F is equal to {celsius:.2f}°C")
+# Display the result using an f-string with 2 decimal places
+print(f"{celsius:.2f}°C is equal to {fahrenheit:.2f}°F")
