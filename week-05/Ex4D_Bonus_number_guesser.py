@@ -1,19 +1,18 @@
-"""Simple number guessing game without using the random module."""
-
 import time
 
-numbers = list(range(1, 21))
-number_pool = tuple(numbers)
+dice_sides = [1, 2, 3, 4, 5, 6]
+dice_pool = tuple(dice_sides)
 
-secret_index = int(time.time()) % len(number_pool)
-secret_number = number_pool[secret_index]
+secret_index = int(time.time()) % len(dice_pool)
+dice_roll = dice_pool[secret_index]
 
 guesses = []
 guess_count = 0
 
-print("Number Guessing Game")
-print("--------------------")
-print("I am thinking of a number from 1 to 20.")
+print("Dice Guessing Game")
+print("------------------")
+print("I rolled a dice.")
+print("Guess a number from 1 to 6.")
 
 while True:
     user_input = input("Enter your guess: ")
@@ -23,15 +22,21 @@ while True:
         continue
 
     guess = int(user_input)
+
+    if guess < 1 or guess > 6:
+        print("Please enter a number from 1 to 6.")
+        continue
+
     guesses.append(guess)
     guess_count += 1
 
-    if guess < secret_number:
+    if guess < dice_roll:
         print("Higher")
-    elif guess > secret_number:
+    elif guess > dice_roll:
         print("Lower")
     else:
-        print(f"Correct! The number was {secret_number}.")
+        print()
+        print(f"Correct! The dice roll was {dice_roll}.")
         print(f"Number of guesses: {guess_count}")
         print(f"Your guesses: {guesses}")
 
