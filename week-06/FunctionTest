@@ -1,0 +1,16 @@
+def calculate_total_points(two_pointers, three_pointers, free_throws):
+
+    total_points = (two_pointers * 2) + (three_pointers * 3) + free_throws
+    return total_points
+
+
+player_name = input("Enter the basketball player's name: ")
+
+two_pointers = int(input("How many 2-point shots did they make? "))
+three_pointers = int(input("How many 3-point shots did they make? "))
+free_throws = int(input("How many free throws did they make? "))
+
+points_scored = calculate_total_points(two_pointers, three_pointers, free_throws)
+
+print(f"{player_name} scored {points_scored} total points in the game.")
+
