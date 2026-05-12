@@ -30,3 +30,8 @@ try:
     text [0] = "J" # This will raise an error
 except TypeError as e:
     print("Strings are immutable:", e)
+
+    print("range(5):")
+for i in range(5):
+    print(i, end=" ")
+print()
