@@ -1,0 +1,6 @@
+=== Customer Interaction Log | Entries: 4 ===
+Date | Customer | Issue | Rep
+2025-05-01 | Alice Nguyen | Billing query | J. Park
+2025-05-01 | Bob Carter | Login issue | S. Diaz
+2025-05-02 | Carol Singh | Refund request | J. Park
+2025-05-02 | Alice Nguyen | Follow-up | M. Lee
