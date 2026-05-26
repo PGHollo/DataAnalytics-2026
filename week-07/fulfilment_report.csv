@@ -1,0 +1,11 @@
+order_id,customer,product,quantity,unit_price,order_value,ship_date,carrier,status,shipped
+101,Chen,Laptop,2,899.99,1799.98,2024-01-10,DHL,Delivered,True
+102,Patel,Tablet,5,499.5,2497.5,2024-01-12,FedEx,Delivered,True
+103,Müller,Monitor,1,349.0,349.0,2024-01-13,DHL,In Transit,True
+104,Okonkwo,Keyboard,10,79.99,799.9,2024-01-14,UPS,Delivered,True
+105,Santos,Headset,3,149.99,449.97,2024-01-15,FedEx,Delayed,True
+106,Larsson,Webcam,4,89.99,359.96,2024-01-16,UPS,Delivered,True
+107,Kim,Mouse,8,29.99,239.92,2024-01-18,DHL,In Transit,True
+108,O'Brien,Docking Station,1,199.0,199.0,,,,False
+109,Rossi,SSD,6,119.99,719.9399999999999,,,,False
+110,Nakamura,USB Hub,2,39.99,79.98,,,,False
